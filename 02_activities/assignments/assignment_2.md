@@ -11,22 +11,29 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
       Your answer...
+    
+    Good Visualization Link: https://public.tableau.com/app/profile/kimly.scott/viz/WorldHomelessnessDayHomelessnessinAustralia/HomelessnessinAustralia
+
+    Bad Visualization Link: https://www.linkedin.com/posts/codyrlee_say-it-with-me-my-data-viz-is-supposed-activity-7194362284146626563-x7i6/
 
 
+    Good visualization Reasoning: 
+    The message is clearly conved at the beginning of the data visualization, the number of people experiencing homelessness in Australia in a big, bold manner. It is very neatly organized to prevent someone from being overwhelmed and a very simple pink color formatting is used. The fourth visual provides the user the option to see the total and the rate per 10,000 people. This is a very good feature as it provides flexibility. More advanced users who want to delve deeper into the data, can look at it from a different angle while others with less of an interest can continue looking through the rest of the data viz. Another great feature is a variety of charts used along with smart toggle options. The change from the horizontal bar chart to vertical bar chart to a toggle and then to a pie chart, keeps the reader from being fatigued by looking at many different charts and data. Lastly, the ending is very impactful, it leaves the reader with a very strong message and it gives them the tools they can use to support the cause.
 
 
-
-
+    Bad Visualization Reasoning:
+    There is too much activity on the graph. The author has reduced the font and made the blocks tiny so they can fit many different teams in the league. The visual also has a very confusing color scheme and when a reader sees too many colors appearing, it makes the chart unreadable. Even though the graph is overwheliming, there are zero numbers present. If one were looking to understand the weight of this information by looking at the dollar amount of the salaries, there would be no information or legend to help them understand this information. Lastly, the graph is which has been reportedly published by Business Insider has also misread their audience. Since most of their readers, who are American, are not very familiar with soccer, this amount of data would be overwhemling and the reader might avoid the graph as they will be overwhelmed with it.
 
       ```
     - How could this data visualization have been improved?  
       ```
       Your answer...
+    Good Visual Improvement:
+    Although this is a great data viz project, it can be improved. The overall project's text size could be increased so its easier to read some of the more dense texts, which although are organized, required my eyes to strain to read through it all. Even the titles could be bigger to distinguish them from the text. Additionally, visual 5's toggle doesn't work smoothly for the male pop as the difference is small between 2016 and 2021. Every visual should be tripple checked after design to understand the user experience. 
 
 
-
-
-
+    Bad Visual Improvement:
+    They can focus on the top 3 teams so that the insights and its impact are displayed clearly. The color scheme should be worked on as well to reduce the number of different colors used. When there are too many colors to keep track off, the reader loses interest in the results. The legend size also has to be increased significantly and the title should be moved to the top. The explanation should be moved to another page as the chart should be self-explanatory with the help of title and axis labels (which need to be added). Another improvement would be to break down the chart to convey the message. Even if the above recommendations were implemented, this data would be too overwhelming. They should have a seperate stacked bar chart for each team so that the results are digested easily.
 
       
       ```
