@@ -9,21 +9,61 @@
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
 
+    Used Excel and Python
+
+
     > Who is your intended audience? 
     
+    My primary audience would be anyone who is interested in understanding the amount of tickets being sold for ferry rides in downtown Toronto. This would be individuals or organizations who are looking to invest into the ferry business in Toronto or who would be interested in investing in secondary businesses around the ferry industry. For example, an individual who wants to open a churros stand or a hot-dog stand would also benefit from analyzing the ticket data.
+
+
     > What information or message are you trying to convey with your visualization? 
+
+    Showcase the sales per year in decending order over the 2015-2025 period (Excel)
+    Showcase the sales vs redemption comparision per year (Python)
     
+
     > What aspects of design did you consider when making your visualization? How did you apply them? With what elements of your plots? 
     
+    I took into account the following factors: 
+    Which chart to use - to convey the message of the data --> applied them by creating bar charts
+    Labels and color usage to ensure that the data was clearly understood and accessible to all the users --> added labels and color to both charts
+    Scale - consistent and uniform scale to help understand the data and compare the two charts if needed --> used consisten scale for both charts
+
+
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
     
+    Used a random seed in python to ensure reproducability. For Excel, reproducability is tougher to maintain because it is a click and play software. This lack of reproducability might prevent someone from creating the exact same graph but I kept the visualization very basic and converted the data into a pivot table and showcased all of it on the same sheet so that someone else can attempt to recreate the chart with minimum effort.
+
+
     > How did you ensure that your data visualization is accessible?  
+
+    Cleaned up noise from the graph (removed extra grid lines and removed legend when not necessary in Excel).
+    Used high contrast colors
+    Used a clear title which helps the reader understand the data quickly
+    Added in ALT text caption
+    Used a lot of white space around the chart
+
     
     > Who are the individuals and communities who might be impacted by your visualization?  
+
+    A variety of individuals and communities, including:
+        individuals or organizations who are looking at investing into the ferry or indirect businesses
+        governments (municipal and provincial) that support the ferry industry
+        individuals who are looking to book a ferry and are interested in understanding how busy the ferry has been over the past years
+        individuals who are looking to rent housing near the ferry and are looking to understand how busy the business will be (which might affect their enjoyment of housing) 
     
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
     
+    Included the main columns of the dataset and the created column of year. Inclusion was based on the question: is this column required to help readers understand the data. If the answer was no, I didn't include the column. Additionally, I didn't want to overwhlem the user with too many datapoints, so also removed the column unless it was absolutely necessary to understand the data.
+
     > What ‘underwater labour’ contributed to your final data visualization product?
+
+    Cleaning the dataset to remove any blank or non-value datapoints.
+    For Excel: Building out a pivot-table to ensure a distributions can be created on an yearly basis
+    For Excel: Removed extra noise of gridlines and other chart elements that don't add value
+    For python: writing all the code and testing it to ensure it displays an appropriate graph
+
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
